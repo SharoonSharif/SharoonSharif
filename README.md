@@ -2,7 +2,7 @@
 
 Hardware–software co-design for efficient machine learning on constrained devices, from the instruction set up to deployed AI systems.
 
-AI Integration Specialist at Faith Comes By Hearing · MS Electrical Engineering, Alabama A&M University · Albuquerque, NM
+AI Integration Specialist · MS Electrical Engineering, Alabama A&M University · Albuquerque, NM
 
 [Website](https://sharoonsharif.github.io) · [Google Scholar](https://scholar.google.com/citations?user=kL7K6LwAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/sharoonsharif) · [ORCID](https://orcid.org/0009-0003-2669-1209)
 
