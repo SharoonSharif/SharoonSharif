@@ -21,7 +21,12 @@ AI Integration Specialist at Faith Comes By Hearing · MS Electrical Engineering
 - **Design and Implementation of 32-bit MIPS-based Softcore Processor with Enhanced Instruction Set on FPGA.** S. Sharif, S. Kondamadugula, P. Jungwirth, Z. Xiao, A. Scott. *IEEE Computing and Communication Workshop and Conference (CCWC)*, 2025. **Best Presentation Award.** [doi](https://doi.org/10.1109/CCWC62904.2025.10903946)
 - **Optimization and Implementation of a 32-bit MIPS-based Softcore Processor to Run Statistical Algorithms on FPGA.** S. Sharif, M. Simbule, T. Cabbil, S. Kondamadugula, Z. Xiao, A. Scott. *ICT for Intelligent Systems (ICTIS)*, Springer SIST, 2024. [doi](https://doi.org/10.1007/978-981-97-5810-4_32)
 
-Under review: *Symmetric Overloaded Instruction Set Architectures: ISA Design, FPGA Softcore Implementation, and Pipelined Optimization of the SOMA/SORA Family*, IEEE Access.
+Under review:
+
+- *Auditing Input Use in Histology–Transcriptomics Survival Models, with a One-Checkpoint Recipe for Missing Inputs.* S. Sharif, H. Can. Interdisciplinary Sciences: Computational Life Sciences.
+- *Orthographic Convention, Pseudo-Labels and the Limits of System Combination in Code-Switched Indonesian–Javanese ASR.* S. Sharif, N. O’Neill. TACL.
+- *SOMA/SORA: A Symmetric Overloaded Instruction Set Architecture Family with FPGA Softcore Implementation and Pipelined Optimization.* S. Sharif, S. Kondamadugula, Z. Xiao, P. Jungwirth. IEEE Access.
+- *A Bandwidth-Feasibility Model and Runtime-Programmable 3×3 Convolution Engine for Streaming Video on Zynq-7000 SoCs.* S. Sharif, S. Kondamadugula, Z. Xiao. IEEE TCAS-II.
 
 #### Research code
 
