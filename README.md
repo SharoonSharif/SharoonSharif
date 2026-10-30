@@ -4,7 +4,7 @@ Hardware–software co-design for efficient machine learning on constrained devi
 
 AI Integration Specialist at Faith Comes By Hearing · MS Electrical Engineering, Alabama A&M University · Albuquerque, NM
 
-[Website](https://sharoonsharif.github.io) · [Google Scholar](https://scholar.google.com/citations?user=kL7K6LwAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/sharoonsharif) · [CV](https://sharoonsharif.github.io/SharoonSharif_CV.pdf)
+[Website](https://sharoonsharif.github.io) · [Google Scholar](https://scholar.google.com/citations?user=kL7K6LwAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/sharoonsharif) · [ORCID](https://orcid.org/0009-0003-2669-1209)
 
 #### Research
 
